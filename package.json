@@ -9,6 +9,8 @@
   "scripts": {
     "start": "vite",
     "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 8080",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
